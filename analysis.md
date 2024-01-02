@@ -3,14 +3,19 @@ In this notes, we show the result of experiment. We separately presented the res
 ## Images from different domains
 ### Qualitization
 * City  
+![image](https://github.com/ZeyanNycu/EII-pytorch/assets/105538527/ef5cfd9c-826a-450a-9b41-2b5891c787c0)  
 ![Alt text](analysis_img/city.png)
 * Nature  
+![image](https://github.com/ZeyanNycu/EII-pytorch/assets/105538527/da524df9-e71c-4542-b961-c8806d228437)   
 ![Alt text](analysis_img/nature.png)
 * Painting  
+![image](https://github.com/ZeyanNycu/EII-pytorch/assets/105538527/af00b629-e968-420b-b170-fbe0fe5d8aa5)  
 ![Alt text](analysis_img/painting.png)
 * Satellite  
+![image](https://github.com/ZeyanNycu/EII-pytorch/assets/105538527/da1f52a9-ecd5-422b-97fd-0ac2606056c2)  
 ![Alt text](analysis_img/satellite.png)
 * X_ray  
+![image](https://github.com/ZeyanNycu/EII-pytorch/assets/105538527/b29a5c27-1558-4b55-99ab-4ebc41c7bc4f)  
 ![Alt text](analysis_img/x_ray.png)
 
 ### Quantization
